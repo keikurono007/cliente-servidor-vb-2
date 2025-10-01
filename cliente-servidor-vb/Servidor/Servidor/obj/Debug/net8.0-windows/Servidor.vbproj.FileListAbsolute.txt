@@ -1,0 +1,14 @@
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\bin\Debug\net8.0-windows\Servidor.exe
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\bin\Debug\net8.0-windows\Servidor.deps.json
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\bin\Debug\net8.0-windows\Servidor.runtimeconfig.json
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\bin\Debug\net8.0-windows\Servidor.dll
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\bin\Debug\net8.0-windows\Servidor.pdb
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.AssemblyInfoInputs.cache
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.AssemblyInfo.vb
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.vbproj.CoreCompileInputs.cache
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.dll
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\refint\Servidor.dll
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.pdb
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\Servidor.genruntimeconfig.cache
+C:\Users\pacos\Downloads\cliente-servidor-vb\Servidor\Servidor\obj\Debug\net8.0-windows\ref\Servidor.dll
